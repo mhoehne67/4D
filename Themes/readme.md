@@ -9,6 +9,6 @@ In your existing preferences file replace the entire content of the preferences/
 
 Note that this also includes the Input Mono Light font. If you don't want to use this font, then do not copy this line:
 
-<general font_name="InputMono Light" font_size="10"/>
+`<general font_name="InputMono Light" font_size="10"/>`
 
 However, it is a great font for developing and I'm using it in both 4D and Visual Studio. It is free for personal use and can be downloaded at https://input.fontbureau.com/. 
