@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="1075">
+	<com.4d>
+		<method_editor>
+			<general font_name="InputMono Light" font_size="10"/>
+			<syntax_style syntax="SQL">
+				<syntax kind="normal">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="keywords">
+					<color alpha="255" blue="0" green="255" red="128"/>
+					<style bold="true" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="numbers">
+					<color alpha="255" blue="255" green="255" red="128"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="strings">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="names">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="comparisons">
+					<color alpha="255" blue="192" green="192" red="192"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="function_keywords">
+					<color alpha="255" blue="255" green="128" red="0"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="debug">
+					<color alpha="255" blue="128" green="128" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+			</syntax_style>
+			<syntax_style syntax="4D">
+				<syntax kind="plain_text">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="commands">
+					<color alpha="255" blue="240" green="240" red="240"/>
+					<style bold="true" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="keywords">
+					<color alpha="255" blue="214" green="156" red="86"/>
+					<style bold="true" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="tables">
+					<color alpha="255" blue="255" green="255" red="160"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="fields">
+					<color alpha="255" blue="255" green="255" red="160"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="methods">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="local_variables">
+					<color alpha="255" blue="192" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="process_variables">
+					<color alpha="255" blue="0" green="160" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="interprocess_variables">
+					<color alpha="255" blue="128" green="128" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="parameters">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="constants">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="true" underline="false"/>
+				</syntax>
+				<syntax kind="plug_ins">
+					<color alpha="255" blue="255" green="255" red="255"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="comments">
+					<color alpha="255" blue="64" green="160" red="64"/>
+					<style bold="false" italic="true" underline="false"/>
+				</syntax>
+				<syntax kind="errors">
+					<color alpha="255" blue="0" green="0" red="255"/>
+					<style bold="true" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="member">
+					<color alpha="255" blue="192" green="192" red="192"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="memberFunc">
+					<color alpha="255" blue="128" green="255" red="128"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+				<syntax kind="entity_member">
+					<color alpha="255" blue="107" green="128" red="160"/>
+					<style bold="false" italic="false" underline="false"/>
+				</syntax>
+			</syntax_style>
+			<options auto_quote="true" hilite_execution_line="false" hilite_same_word="hiliteOnFullySelected" indentation="15" matching_parenthesis_style="backColor" show_blocks_hilite="true" show_blocks_lines="true" show_lists="false"/>
+			<back_color>
+				<color alpha="255" blue="32" green="32" red="32"/>
+			</back_color>
+			<same_word_back_color>
+				<color alpha="255" blue="255" green="0" red="128"/>
+			</same_word_back_color>
+			<cursor_line_color>
+				<color alpha="255" blue="64" green="64" red="64"/>
+			</cursor_line_color>
+			<cursor_line_back_color>
+				<color alpha="255" blue="64" green="64" red="64"/>
+			</cursor_line_back_color>
+			<matching_parenthesis_back_color>
+				<color alpha="255" blue="64" green="128" red="128"/>
+			</matching_parenthesis_back_color>
+			<hilite_back_color>
+				<color alpha="255" blue="204" green="224" red="219"/>
+			</hilite_back_color>
+			<hilite_block_back_color>
+				<color alpha="255" blue="64" green="64" red="64"/>
+			</hilite_block_back_color>
+			<execution_line_back_color>
+				<color alpha="255" blue="42" green="42" red="42"/>
+			</execution_line_back_color>
+		</method_editor>
+	</com.4d>
+
+</preferences>
