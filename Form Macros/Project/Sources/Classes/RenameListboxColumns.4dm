@@ -55,7 +55,7 @@ https://developer.4d.com/docs/en/FormEditor/macros.html
 
 */
 
-Class constructor
+Class constructor($macro : Object)
 	This:C1470.editor:=Null:C1517  // editor property of form editor macro proxy instance - passed in onInvoke
 	
 	
