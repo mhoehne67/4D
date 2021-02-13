@@ -96,7 +96,6 @@ Function onError($editor : Object; $resultMacro : Object; $error : Collection)
 Function renameListboxColumns($lbxName : Text; $listbox : Object)
 	var $col : Object
 	var $index : Integer
-	var $newObjectName : Text
 	
 	$index:=1
 	
