@@ -123,11 +123,11 @@
 						{
 							"header": {
 								"text": "Header1",
-								"name": "Kopf1"
+								"name": "list2Col1Header"
 							},
-							"name": "listCol1",
+							"name": "list2Col1",
 							"footer": {
-								"name": "Fußteil1"
+								"name": "list2Col1Footer"
 							}
 						}
 					]
@@ -135,5 +135,12 @@
 			}
 		}
 	],
-	"geometryStamp": 5
+	"geometryStamp": 13,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
 }
