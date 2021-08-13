@@ -1,7 +1,9 @@
-# Dark Theme v18
+# Dark Theme v18 and v19
 ![Preview](Preview.png)
 
-To apply the dark theme please follow these steps on Windows. It will be slightly different on a Mac, but you should be able to find it.
+To apply the dark theme to v19, simply copy Dark Theme v19.json to your  4D Editor Themes folder and select it in the UI.
+
+To apply the v18 dark theme please follow these steps on Windows. It will be slightly different on a Mac, but you should be able to find it.
 
 Open your 4D preferences file in a text editor. It is named "4D Preferences v18.4DPreferences". The file is located in the directory <sysdrive>:\Users\<username>\AppData\Roaming\4D. The easiest way to directly jump to this directory is by typing in %appdata%\4D in the exlorers address bar and hitting enter. 
 
