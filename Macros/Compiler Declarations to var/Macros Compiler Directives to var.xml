@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE macros SYSTEM "http://www.4d.com/dtd/2007/macros.dtd" >
+
+<macros>
+ 
+  <macro name="Change to var-syntax" in_toolbar="true" version="2">
+    <text><method>macroCompilerDirectivesToVar</method></text>
+  </macro>
+  
+</macros>
