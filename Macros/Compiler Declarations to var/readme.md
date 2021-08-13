@@ -1,5 +1,5 @@
 # Compiler directives to var
-Using the var keyword to declare variables looks much nicer than using copiler directives:
+Using the var keyword to declare variables looks much nicer than using compiler directives:
 
 var $name; $firstName: Text
 var $age: Integer
