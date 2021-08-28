@@ -14,7 +14,7 @@ After having changed many declarations manually, I though it's time to automate 
 NOTE: Comments behind variable declarations are removed by default. You can change this behavior in the macro:
 
 	If (False)  // set to True in order to preserve comments 
-		$variableDeclaration:=$variableDeclaration+Substring:C12($codeLine; $posEnd+1)
+		$variableDeclaration:=$variableDeclaration+Substring($codeLine; $posEnd+1)
 	End if 
 
 USE AT YOUR OWN RISK!
